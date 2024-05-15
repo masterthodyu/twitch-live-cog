@@ -3,6 +3,6 @@
 from .twitch_notifier import TwitchNotifier
 
 
-def setup(bot):
-    # Add the cog to the bot.
-    bot.add_cog(TwitchNotifier(bot))
+# def setup(bot):
+#     # Add the cog to the bot.
+#     bot.add_cog(TwitchNotifier(bot))
