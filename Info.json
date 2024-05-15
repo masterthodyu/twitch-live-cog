@@ -1,0 +1,8 @@
+{
+    "author" : ["Thodyu"],
+    "install_msg" : "You ready to get lucky?.",
+    "name" : "Twitch_Notify.",
+    "short" : "Notification for twitch.",
+    "description" : "Set notifications to a channel and allow server members to be notified when a twitch channel goes live.",
+    "tags" : ["twitch."]
+}
